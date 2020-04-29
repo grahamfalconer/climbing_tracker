@@ -16,6 +16,19 @@ Knows its
 distance
 ___________________________________________________
 
+___________________________________________________
+
+class: ClimbingGoal (it is one proposed singular climbing journey)
+_____________________________________
+Responsibility   |  Collaborator 
+___________________________________________________
+Knows its        |  
+time
+___________________________________________________
+Knows its
+distance
+___________________________________________________
+
 
 
 class: Tracker (It is an operating panel for climbs)

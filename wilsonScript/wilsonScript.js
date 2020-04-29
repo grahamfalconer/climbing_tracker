@@ -7,11 +7,11 @@ var wilson = {
 
     isEqual: function(assertion1, assertion2) {
         if(assertion1 !== assertion2){
-            console.error("Test failed: Vince says boo: " + assertion1 + " is not equal to " + assertion2       
+            console.error("Test failed... Vince says boo: " + assertion1 + " is not equal to " + assertion2       
           );
         }
         else{
-            console.log("Test passed: Wilson says wow: " + assertion1 + " is equal to " + assertion2); 
+            console.log("Test passed... Wilson says wow: " + assertion1 + " is equal to " + assertion2); 
         }
     },
   };

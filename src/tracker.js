@@ -1,4 +1,4 @@
-function tracker () {
+function Tracker () {
     this.climbs = []
 
 }

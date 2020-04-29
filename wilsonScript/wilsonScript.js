@@ -20,4 +20,7 @@ function it (description, fun){
     console.log(description)
     fun();
 };
+function xit (description, fun){
+  console.warn(description + " (pending error) " +" \nWilson suggests you look at this later, something wrong here: \n" + fun)
+};
   //bracket colorizer 

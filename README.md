@@ -41,7 +41,7 @@ Stores climbs    |  Climb
 ___________________________________________________
 Displays climbs  |  Climb
 ___________________________________________________
-Compares climbs  |  Climb
+Compares climbs  |  Climb & goal
 ___________________________________________________
 
 

@@ -16,3 +16,6 @@ it('can compare a climb and a goal and give a comparison summary', function(){
     tracker.newClimb("Tough one", 5, 10)
     tracker.newGoal //refactor tracker to have goal work inside of it?
 })
+
+
+

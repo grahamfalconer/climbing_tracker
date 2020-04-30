@@ -1,6 +1,8 @@
 function Tracker () {
     this.climbs = []
     this.allClimbingGoals = []
+    this.currentGoal = []
+    this.entry_message = "Welcome! \n your current goal is: " + this.currentGoal + "."
 }
 
 Tracker.prototype.newClimb = function(climbName, distanceClimbed, timeTaken) {
@@ -18,4 +20,14 @@ Tracker.prototype.newClimbingGoal = function(proposedName, proposedDistance, pro
     newOne = new ClimbingGoal(name, distance, time);
     this.allClimbingGoals.push(newOne);
 };
+
+
+Tracker.prototype.setCurrentGoal = function(){
+    this.currentGoal = []
+    this.currentGoal.push(this.allClimbingGoals[0].name)
+};
+
+Tracker.prototype.stateCurrentGoal = function(){
+    return this.currentGoal[0]
+}
 

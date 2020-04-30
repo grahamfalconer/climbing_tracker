@@ -21,6 +21,6 @@ function it (description, fun){
     fun();
 };
 function xit (description, fun){
-  console.warn(description + " (pending error) " +" \nWilson suggests you look at this later, something wrong here: \n" + fun)
+  console.warn(description + " (pending error) " +" \nWilson suggests you look at this later, something wrong here:")
 };
   //bracket colorizer 

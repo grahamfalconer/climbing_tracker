@@ -18,4 +18,5 @@ it('Can give climbing goals a target time', function(){
     wilson.isEqual(climbingGoal.time, 5)
 });
 
+
   

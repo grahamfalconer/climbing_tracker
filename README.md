@@ -82,7 +82,7 @@ I would like to display my climbs.
 As a user,
 So that I can set myself goals for my climb,
 I would like to be able to create goals.
--[]
+-[X]
 
 As a user,
 So that I can see if I'm meeting my goals,

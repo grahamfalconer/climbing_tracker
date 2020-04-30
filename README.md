@@ -2,6 +2,8 @@
 
 Climbing Tracker 
 
+
+
 ## CRC CARDS
 ___________________________________________________
 
@@ -57,6 +59,8 @@ ___________________________________________________
 
 ## Current Tasks
 wilson changes index background to wilson watermark when event listener hears Wilson
+
+
 
 ## User Stories
 

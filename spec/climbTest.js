@@ -12,4 +12,3 @@ it('I can give climbs a name', function(){
   let climb = new Climb("Tough one",10,5);
   wilson.isEqual(climb.name, "Tough one")
 })
-
